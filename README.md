@@ -24,13 +24,13 @@ How to Use
 }
 ```
 - Compile into a .jar.
-- Run as follows: java -jar SixDegreesOfBacon.jar "<Actor Name>"
+- Run as follows:
 ```
-java -jar SixDegreesOfBacon.jar "Johnny Depp"
+java -jar SixDegreesOfBacon.jar "<Actor Name>""
 ```
 The output will look something like below:
 ```
 Loading files...
 Searching for shortest path between Johnny Depp and Kevin Bacon...
-Johnny Depp-(Public Enemies)->Christian Stolte-(Novocaine)->Kevin 
+Johnny Depp-(Public Enemies)->Christian Stolte-(Novocaine)->Kevin Bacon
 ```
