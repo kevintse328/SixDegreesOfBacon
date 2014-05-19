@@ -11,13 +11,11 @@ How to Use
 ```
 {
   "film": {
-    "image": "http://image.tmdb.org/t/p/w185/zbwxBgGO9wtauX8dDfG16ZYZdn.jpg",
     "name": "Four Rooms"
   },
   "cast": [
     {
       "name": "Quentin Tarantino",
-      "image": "http://image.tmdb.org/t/p/w185/6grjDWpEIPL5QdRbUZFxVEp5TCd.jpg"
     },
     ...
   ]
@@ -26,7 +24,7 @@ How to Use
 - Compile into a .jar.
 - Run as follows:
 ```
-java -jar SixDegreesOfBacon.jar "<Actor Name>""
+java -jar SixDegreesOfBacon.jar "<Actor Name>"
 ```
 The output will look something like below:
 ```
