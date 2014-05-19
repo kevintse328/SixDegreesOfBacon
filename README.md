@@ -1,7 +1,7 @@
 SixDegreesOfBacon
 =================
 
-Java app to find the shortest path between an actor and Kevin Bacon
+Java app to find the shortest path between an actor and Kevin Bacon.
 
 
 How to Use
